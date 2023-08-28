@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 	
-<!--
+
 **kimsegong/kimsegong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
