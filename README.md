@@ -1,4 +1,6 @@
 ### welcome my github 👋👀✨🌹
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's_github&fontSize=90" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsegong&layout=compact"><br><br>
