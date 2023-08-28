@@ -1,5 +1,6 @@
-################################################# welcome my github 👋👀✨🌹
-
+<p align="center">
+## welcome my github 👋👀✨🌹
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's_github&fontSize=90" />
