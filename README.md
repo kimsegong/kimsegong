@@ -1,6 +1,6 @@
-<p align="center">
-<h2> welcome my github 👋👀✨🌹 </h2>
-</p>
+
+<h2 align="center"> welcome my github 👋👀✨🌹 </h2>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's_github&fontSize=90" />
