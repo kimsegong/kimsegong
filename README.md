@@ -14,27 +14,21 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>	
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/aerlingus-006272?style=flat-square&logo=aerlingus&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://kimsegong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kimsegong.tistory.com/"/></a>&nbsp
   <a href="mailto:kimsegong@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=kimsegong@naver.com"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 	
 
