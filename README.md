@@ -19,6 +19,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://kimsegong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kimsegong.tistory.com/"/></a>&nbsp
+</p>
 	
 
 <!--
