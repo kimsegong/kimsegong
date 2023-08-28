@@ -1,5 +1,7 @@
 ### welcome my github 👋👀✨🌹
 
+
+<img src="https://img.shields.io/badge/blue?style=flat&logo=kimsegong&logoColor=white"/>
 <!--
 **kimsegong/kimsegong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
