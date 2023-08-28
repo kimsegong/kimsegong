@@ -1,7 +1,7 @@
 ### welcome my github 👋👀✨🌹
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's_github&fontSize=90" />
 <!--
 **kimsegong/kimsegong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
