@@ -12,12 +12,13 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-</p>	
-<p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
