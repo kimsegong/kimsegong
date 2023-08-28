@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/aerlingus-006272?style=flat-square&logo=aerlingus&logoColor=white"/>
 </p>
 <p align="center">
