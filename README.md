@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+  <img src="https://img.shields.io/badge/aerlingus-006272?style=flat-square&logo=aerlingus&logoColor=white"/>
 </p>
 	
 <!--
