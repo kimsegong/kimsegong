@@ -1,4 +1,4 @@
-### Hi there 👋
+### welcome my github 👋
 
 <!--
 **kimsegong/kimsegong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
