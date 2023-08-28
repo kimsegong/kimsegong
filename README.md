@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's_github&fontSize=90" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsegong&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
-
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
