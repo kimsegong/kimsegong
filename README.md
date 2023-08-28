@@ -4,7 +4,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsegong&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
 <h3 align="center">📚 Tech Stack 📚</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/aerlingus-006272?style=flat-square&logo=aerlingus&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
