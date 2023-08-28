@@ -5,7 +5,9 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsegong&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
 
- ![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ logoname }&logoColor={ logo color(optional) })
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
 
 	
 <!--
