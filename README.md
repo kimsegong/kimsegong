@@ -2,7 +2,9 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SY's_github&fontSize=90" />
-<img src="https://img.shields.io/badge/#E34F26?style=flat&logo=html5&logoColor=white"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsegong&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
+
 	
 <!--
 **kimsegong/kimsegong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
