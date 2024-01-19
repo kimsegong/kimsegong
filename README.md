@@ -38,9 +38,7 @@
   <a href="https://kimsegong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kimsegong.tistory.com/"/></a>&nbsp
   <a href="mailto:kimsegong@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=kimsegong@naver.com"/></a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+
 	
 
 <!--
