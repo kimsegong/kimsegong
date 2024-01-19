@@ -28,6 +28,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
 </p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
