@@ -1,16 +1,16 @@
 
 <h2 align="center"> welcome to my github 👋👀✨🌹 </h2>
-<p align="center">
-![kimsegong's github stats](https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true)
-</p>
-<h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
+![kimsegong's github stats](https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true)
+</div>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
-</div>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
