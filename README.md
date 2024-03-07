@@ -1,9 +1,9 @@
 
-<h2 align="center"> welcome to my github 👋👀✨🌹 </h2>
+<h2 align="center"> welcome to my github 👋👀✨🌹 </h2><br><br>
 
 <p align="center">
   반갑습니다. 백엔드 개발자 김세연입니다!😉
-</p>
+</p><br>
 
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
