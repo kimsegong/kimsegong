@@ -1,14 +1,6 @@
 
 <h2 align="center"> welcome to my github 👋👀✨🌹 </h2>
 
-
-<p align="center">
-
-	<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-	<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
-	</p>
-</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
