@@ -1,7 +1,9 @@
 
 <h2 align="center"> welcome to my github 👋👀✨🌹 </h2>
 
-![kimsegong's github stats](https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true)
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
+    </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
