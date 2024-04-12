@@ -2,7 +2,7 @@
 <h2 align="center"> welcome to my github 👋👀✨🌹 </h2><br><br>
 
 <p align="center">
-  반갑습니다. 백엔드 개발자 김세연입니다!😉
+  안녕하세요. 백엔드 개발자 김세연입니다!😉
 </p><br>
 
 <div align="center">
