@@ -1,5 +1,5 @@
 
-<h2 align="center"> welcome to my github 👋👀✨🌹 </h2><br><br>
+<h2 align="center"> welcome to my github 👋✨🌹 </h2><br><br>
 
 <p align="center">
   안녕하세요. 백엔드 개발자 김세연입니다!😉
