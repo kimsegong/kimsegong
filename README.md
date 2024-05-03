@@ -6,7 +6,7 @@
 </p><br>
 
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kimsegong&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=kimsegong&theme=gruvbox_light&show_icons=true">
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
